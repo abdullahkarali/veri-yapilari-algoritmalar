@@ -41,5 +41,14 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açıla
     **[2,3,4,5,7,9,8,15,6]**
 
 # Project 2   
-    
 
+
+**Cevap**
+
+    [![image](https://r.resimlink.com/yeA0hBQr.png)](https://resimlink.com/yeA0hBQr)
+    
+# Project 3
+
+   **Cevap**
+
+   
