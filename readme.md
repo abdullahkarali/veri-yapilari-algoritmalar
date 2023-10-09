@@ -51,4 +51,6 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açıla
 
    **Cevap**
 
+- repo içerisine png formatında yüklenmiştir.
+
 
