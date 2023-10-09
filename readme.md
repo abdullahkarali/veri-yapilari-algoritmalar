@@ -45,10 +45,10 @@ Patika-Kodluyoruz Veri yapilari ve algoritmalar eğitimi projeleri için açıla
 
 **Cevap**
 
-    [![image](https://r.resimlink.com/yeA0hBQr.png)](https://resimlink.com/yeA0hBQr)
+- https://resimlink.com/yeA0hBQr
     
 # Project 3
 
    **Cevap**
 
-   
+
